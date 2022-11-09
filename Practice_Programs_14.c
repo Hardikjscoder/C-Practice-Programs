@@ -1,7 +1,8 @@
-#include <stdio.h> 
-#include <string.h> 
+#include <stdio.h>
+#include <string.h>
 
-int main() {
+int main()
+{
     // ? Q14 - Write a program to reverse a string wihtout strrev() function/method
     char str[] = "hardik";
     printf("Original string : %s\n", str);
